@@ -57,7 +57,8 @@ This project showcases an advanced Agentic AI application using Groq Llama 3.3 7
    ```
    Example:
    ```env
-   API_KEY=<your_api_key>
+   Groq_API_KEY=<your_api_key>
+   phi_api_key=<your_api_key>
    DB_PATH=tmp/groq_agents.db
    ```
 
@@ -90,9 +91,7 @@ This project showcases an advanced Agentic AI application using Groq Llama 3.3 7
 ---
 
 ## File Structure
-- `main.py`: Entry point of the application.
-- `agents.py`: Defines agents with roles, tools, and instructions.
-- `playground.py`: Configures the Playground interface.
+- `first.py`: Entry point of the application.
 - `requirements.txt`: Lists dependencies.
 - `tmp/`: Stores SQLite databases for agent history and storage.
 
@@ -111,11 +110,6 @@ This project showcases an advanced Agentic AI application using Groq Llama 3.3 7
 
 ## Contributions
 Feel free to contribute to the project by submitting issues or pull requests. Ensure proper documentation of new features or bug fixes.
-
----
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ---
 
