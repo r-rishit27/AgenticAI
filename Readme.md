@@ -1,5 +1,5 @@
 
-# Agentic AI: A Versatile Multi-Agent System
+# TaskForce AI: A Versatile Multi-Agent System
 
 This project showcases an advanced Agentic AI application using Groq Llama 3.3 70B model. It employs multiple specialized agents to handle web searches, financial data analysis, and YouTube video comprehension. The application features an intuitive web-based playground interface for seamless interaction.
 
